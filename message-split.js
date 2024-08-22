@@ -84,3 +84,4 @@ async function sendSplitMessage(message, botResponse) {
 }
 
 module.exports = { sendSplitMessage };
+// export { sendSplitMessage };
